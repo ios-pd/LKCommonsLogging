@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'LKCommonsLogging'
-s.version = '5.30.1'
+s.version = '6.0.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
